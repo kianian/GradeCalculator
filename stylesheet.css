@@ -1,0 +1,33 @@
+h1, h2{
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-color: red;
+    cursor: pointer;
+    text-align: center;
+}
+#finalTable{
+    background-color: green;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.green{
+    background-color: green;
+}
+
+.gray{
+    background-color: gray;
+}
+.magenta{
+    background-color: magenta;
+}
+.blue{
+    background-color: blue;
+}
+
+.aqua{
+    background-color: aqua;
+}
